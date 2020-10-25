@@ -1,5 +1,6 @@
 remote_theme: McNative/jekyll-mcnative-theme
 baseurl: https://github.com/McNative/McNative
+url: "https://test-docs.mcnative.org/"
 plugins:
   - jemoji
   - jekyll-avatar
