@@ -1,4 +1,4 @@
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: McNative/jekyll-mcnative-theme
 baseurl: https://github.com/McNative/McNative
 plugins:
   - jemoji
