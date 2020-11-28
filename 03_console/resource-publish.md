@@ -1,11 +1,12 @@
 ---
-title: McNative Hybrid Plugins
+title: Create & Publish a Resource
 ---
 
 ## Introduction
 
-McNative Hybrid Plugins are plugins that are built on a different platform like Bukkit or BungeeCord, but 
-are fully integrated into the McNative environment. 
+
+## Pre Requirement
+
 
 ## Get Started 
 
