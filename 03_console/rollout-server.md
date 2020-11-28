@@ -2,6 +2,8 @@
 title: McNative Rollout Server
 ---
 
+## Introduction
+
 The McNative Rollout server is simple web service which caches resources and licenses from the McNative mirror server in the local environment. 
 This technology is important for building a reliable and stable network. We recommend all professional networks to use at least one rollout server in your infrastructure.
 
@@ -9,10 +11,10 @@ This technology is important for building a reliable and stable network. We reco
 * Independent infrastructure 
 * Resource version controlling over the McNative Console
 * Automatically plugin rollout to your servers
-* Different profiles for productive, stage and development environments 
+* Different profiles for production, stage and development environments 
 
 ## Architecture
-As you can see in the figure, the rollout server installed on your server talks to our infrastructure to get the latest configured settings from the McNative Console. 
+As you can see in the picture, the rollout server installed on your server talks to our infrastructure to get the latest configured settings from the McNative Console. 
 The rollout server will then download and cache the configured resources. 
 Your game and proxy servers will contact your rollout server to get the configured resource version.
 
