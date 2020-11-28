@@ -4,8 +4,7 @@ title: Integrate McNative licensing
 
 ## Introduction
 
-McNative Hybrid Plugins are plugins that are built on a different platform like Bukkit or BungeeCord, but 
-are fully integrated into the McNative environment. 
+
 
 ## Pre Requirement
 
@@ -42,7 +41,7 @@ The setup of the framework is very simple and requires only a few code lines.
 | Bukkit           | `org.mcnative.licensing.platform.BukkitIntegration`   |
 | BungeeCord       | `org.mcnative.licensing.platform.BungeeIntegration`   |
 
-In this example setup with use the McNative plugin framework.
+In this example setup we use the McNative plugin framework.
 
 ```java
 public static String RESOURCE_ID ="440a71ff-01ea-43f7-a483-f46940f24d29";
