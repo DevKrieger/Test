@@ -1,6 +1,7 @@
 remote_theme: pretronic/pretronic-jekyll-template
 title: McNative Documentation
 description: McNative Documentation
+author: Pretronic
 
 url: docs.mcnative.org
 plugins:
