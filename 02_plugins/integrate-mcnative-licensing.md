@@ -2,11 +2,11 @@
 title: Integrate McNative licensing
 ---
 
-## Introduction
+# Introduction
 
 
 
-## Pre Requirement
+# Pre Requirement
 
 **For Maven**
 ```xml
@@ -25,11 +25,11 @@ title: Integrate McNative licensing
 
 **For Gradle**
 
-## Get Started 
+# Get Started 
 
 
 
-### Setup the licensing framework
+## Setup the licensing framework
 
 The setup of the framework is very simple and requires only a few code lines. 
 
@@ -63,7 +63,7 @@ try{
 ```
 
 
-### Setup the McNative Premium reporting service 
+## Setup the McNative Premium reporting service 
 ```java
 McNativeIntegration.startReportingService(this,RESOURCE_ID);
 ```
