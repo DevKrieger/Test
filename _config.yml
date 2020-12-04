@@ -1,7 +1,14 @@
 remote_theme: pretronic/pretronic-jekyll-template
 title: McNative Documentation
+description: McNative Documentation
+
 url: docs.mcnative.org
 plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
+
+
+repo: https://github.com/McNative/McNative-Documentation
+github_user: McNative
+github_repo: McNative-Documentation
