@@ -1,4 +1,4 @@
-remote_theme: vsoch/mkdocs-jekyll
+remote_theme: pretronic/pretronic-jekyll-template
 title: McNative Documentation
 url: docs.mcnative.org
 plugins:
