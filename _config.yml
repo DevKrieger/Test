@@ -12,3 +12,4 @@ plugins:
 repo: https://github.com/McNative/McNative-Documentation
 github_user: McNative
 github_repo: McNative-Documentation
+branch: gh-pages
