@@ -1,4 +1,4 @@
-remote_theme: squidfunk/mkdocs-material
+remote_theme: vsoch/mkdocs-jekyll
 title: McNative Documentation
 url: docs.mcnative.org
 plugins:
