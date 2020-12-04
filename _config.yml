@@ -14,3 +14,22 @@ repo: https://github.com/McNative/McNative-Documentation
 github_user: McNative
 github_repo: McNative-Documentation
 branch: gh-pages
+
+defaults:
+  - scope:
+      path: "01_server"
+      type: "docs"
+    values:
+      layout: page
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "posts"
+      type: "posts"
+    values:
+      layout: "post"
