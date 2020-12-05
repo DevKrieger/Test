@@ -15,21 +15,13 @@ github_user: McNative
 github_repo: McNative-Documentation
 branch: gh-pages
 
+collections:
+  docs:
+    output: true
+
 defaults:
   - scope:
-      path: "01_server"
+      path: pdq
       type: "docs"
     values:
-      layout: page
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: "posts"
-      type: "posts"
-    values:
-      layout: "post"
+      valueX: Test
